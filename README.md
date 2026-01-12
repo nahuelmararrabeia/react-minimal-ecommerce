@@ -1,10 +1,10 @@
-🛒 Minimal E-commerce — Premium Portfolio Project
+**🛒 Minimal E-commerce — Premium Portfolio Project**
 
 A production-style headless e-commerce frontend built with React and TypeScript, designed to showcase real-world frontend architecture, UX patterns and clean UI commonly required in commercial projects.
 
 This project focuses on clarity, performance and maintainability, following best practices used in modern e-commerce platforms.
 
-✨ Features
+**✨ Features**
 
 React + TypeScript + Vite
 
@@ -24,7 +24,7 @@ Responsive, mobile-first layout
 
 Headless-ready architecture (easy backend integration)
 
-🧠 Why this project
+**🧠 Why this project**
 
 This project is built as a portfolio-grade example, similar to what clients expect when hiring a frontend developer for:
 
@@ -40,7 +40,7 @@ Marketing-driven product sites
 
 The mock API can be easily replaced with a real backend or third-party service.
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 React
 
@@ -54,11 +54,11 @@ Zustand
 
 React Router
 
-▶️ Getting Started
+**▶️ Getting Started**
 npm install
 npm run dev
 
-🌍 Live Demo
+**🌍 Live Demo**
 
 👉 (agregá acá tu URL de Vercel)
 Ej:
